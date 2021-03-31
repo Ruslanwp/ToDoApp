@@ -12,7 +12,7 @@ export const TodosFilter = React.memo(({
 
   const removeHandler = () => {
     removeCompletedTodos(todos.filter(todo => !todo.completed));
-    setFilter('');
+    setFilter('all');
   };
 
   return (

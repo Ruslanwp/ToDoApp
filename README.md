@@ -1,5 +1,5 @@
 # React ToDo App
-[Preview](https://Ruslanwp.github.io/react_todo-app/)
+[Preview](https://ruslanwp.github.io/ToDoApp/)
 
 ## Description
 
@@ -10,6 +10,6 @@ Here only functional components, so I used Hooks to set state.
 
 # Implementation
 
- - 1) Fork and clone this repository
- - 2) Run `npm install` in your terminal
- - 3) run `npm start`
+ - Fork and clone this repository
+ - Run `npm install` in your terminal
+ - run `npm start`
